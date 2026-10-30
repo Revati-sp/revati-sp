@@ -2,23 +2,16 @@
 
 # Hi, I'm Revati Dharmadhikari 👋
 
-### Software Engineer | Full-Stack Developer | AI Engineer | Technical Writer
+### Ex-Software Engineer at Microsoft | Software Engineering Student at SJSU
 
-I build reliable, scalable, and intelligent software systems.
-
-My engineering journey began with **Software Development in Test**, where I learned
-how to think deeply about quality, reliability, automation, and user experience.
-I then moved into **frontend development**, expanded into **full-stack engineering**,
-and strengthened my backend and distributed-systems foundation through my studies
-at **San José State University**.
-
-Today, I am focused on building the next generation of software powered by
-**Generative AI, LLMs, RAG, AI agents, and cloud-native systems**.
+I am a software engineer, AI enthusiast, technical writer, and lifelong learner
+exploring artificial intelligence, distributed systems, system design, and
+reliable software engineering.
 
 <p>
-  <a href="https://www.linkedin.com/in/revatidharmadhikari/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">LinkedIn</a> •
   <a href="https://medium.com/@revati.272">Medium</a> •
-  <a href="mailto:revatidharmadhikari97@gmail.com">Email</a>
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
 </p>
 
 <p>
@@ -29,210 +22,192 @@ Today, I am focused on building the next generation of software powered by
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I am a software engineer who enjoys working across the complete engineering
-lifecycle—from understanding requirements and designing systems to building,
-testing, deploying, and improving production-quality applications.
-
-My background gives me a broad engineering perspective:
-
-- 🧪 **SDET foundation:** automation, quality engineering, test architecture, and reliability
-- 🎨 **Frontend development:** responsive, accessible, and user-focused interfaces
-- 🔗 **Full-stack development:** connecting intuitive frontend experiences with robust APIs
-- ⚙️ **Backend engineering:** services, databases, APIs, distributed systems, and scalability
-- 🤖 **Generative AI:** LLM applications, RAG pipelines, AI agents, LangChain, and evaluation
-- ☁️ **Cloud and DevOps:** Docker, Kubernetes, AWS, CI/CD, observability, and deployment
-
-I care about writing software that is not only functional, but also maintainable,
-testable, scalable, secure, and easy for other engineers to understand.
+- 💻 Former Software Engineer at Microsoft
+- 🎓 Software Engineering student at San José State University
+- 🤖 Exploring artificial intelligence, machine learning, and AI agents
+- 🏗️ Learning distributed systems, system design, and cloud architecture
+- 🧪 Experienced in software testing, test automation, and frontend development
+- ☁️ Interested in AWS, Kubernetes, Docker, and scalable applications
+- ✍️ Technical writer sharing ideas about AI and software engineering
+- 🌱 Currently preparing for software engineering opportunities
+- 💡 Passionate about building useful, reliable, and meaningful technology
 
 ---
 
-## 🧭 My Engineering Journey
+## 🛠️ Technical Skills
 
-```text
-SDET
-  ↓
-Frontend Developer
-  ↓
-Full-Stack Developer
-  ↓
-Backend and Distributed Systems
-  ↓
-Generative AI and Intelligent Applications
+### Programming Languages
 
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Frontend Development
 
-This journey has shaped me into an engineer who understands software from
-multiple perspectives—not just how to build it, but how to test it, scale it,
-improve it, and create a meaningful experience for its users.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-My SDET experience gave me a strong foundation in quality, automation,
-debugging, and reliability. Frontend development taught me how to build
-intuitive and user-focused interfaces. Full-stack development helped me
-understand how complete applications work end to end.
+### AI and Machine Learning
 
-Through my studies at San José State University, I have been deepening my
-knowledge of backend engineering, databases, APIs, distributed systems,
-system design, cloud computing, and scalable architecture.
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Now, I am applying this foundation to Generative AI and intelligent
-applications—exploring LLMs, RAG, embeddings, vector databases, LangChain,
-LangGraph, AI agents, tool calling, prompt engineering, and LLM evaluation.
+### Testing and Automation
 
-I believe this combination of quality engineering, product development,
-backend systems, and AI gives me a well-rounded perspective on building
-software that is reliable, scalable, intelligent, and genuinely useful.
-🚀 What I Build
-- Scalable full-stack web applications
-- Backend services and REST APIs
-- AI-powered applications and intelligent assistants
-- Retrieval-Augmented Generation systems
-- LLM-powered search and question-answering systems
-- AI agents with tools and multi-step workflows
-- Event-driven and distributed systems
-- Real-time data-processing applications
-- Automated testing frameworks
-- Cloud-native applications
-- Performance optimization solutions
-- Developer productivity tools
-🤖 Generative AI and LLM Engineering
-I am actively exploring the modern Generative AI ecosystem, including:
-- Large Language Models and prompt engineering
-- Retrieval-Augmented Generation
-- Document ingestion and intelligent chunking
-- Embeddings and semantic search
-- Vector databases and hybrid search
-- LangChain and LangGraph
-- AI agents and multi-step reasoning workflows
-- Tool calling and function calling
-- Structured outputs and model routing
-- Conversational memory
-- LLM evaluation and observability
-- Hallucination reduction and grounded generation
-- AI application security
-- MCP-based tool integration
-- Fine-tuning concepts
-- Model evaluation and responsible AI
-My goal is to build AI systems that are useful, trustworthy, explainable,
-and grounded in reliable information.
-🏗️ Backend and Distributed Systems
-Through hands-on projects and coursework at San José State University,
-I am strengthening my backend and systems expertise.
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Areas I work with and study include:
-- API design and service architecture
-- Microservices
-- Event-driven architecture
-- Apache Kafka and message queues
-- Redis and caching
-- PostgreSQL and NoSQL databases
-- Database indexing and query optimization
-- Authentication and authorization
-- Reliability and fault tolerance
-- Scalability and load balancing
-- Consistency and availability
-- Distributed systems communication
-- Containerization and orchestration
-- Monitoring, logging, and observability
-- Performance and latency optimization
-🛠️ Technology Stack
-Programming Languages
+### Cloud, DevOps, and Distributed Systems
 
-Frontend Development
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Backend and APIs
+### Databases and Tools
 
-Generative AI and Machine Learning
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Databases and Data Technologies
+---
 
-Cloud and DevOps
+## 🚀 Featured Projects
 
-Testing and Quality Engineering
+### 🔍 Object Detection Inference Optimization
 
-🌟 Featured Projects
-🔍 Object Detection Inference Optimization
-Exploring methods to improve the performance, speed, and efficiency of
-object detection inference pipelines.
+Research and experimentation focused on improving object detection inference
+performance and efficiency.
 
-View Project
-🧠 2D Object Detection Training Improvement
-Experiments focused on improving the training process and performance of
-2D object detection models.
+[View Repository](https://github.com/Revati-sp/object-detection-inference-optimization)
 
-View Project
-⚡ GEMM TensorCore Benchmark
-GPU performance benchmarking focused on matrix multiplication and TensorCore
-computations.
+---
 
-View Project
-💼 Jobly AI
-A React-based AI job portal application designed to help users discover
-and explore job opportunities.
+### 🧠 2D Object Detection Training Improvement
 
-View Project
-💳 Real-Time Fraud Detection
-A real-time fraud detection system using streaming, in-memory processing,
-Docker, Kubernetes, and cloud deployment concepts.
+Experiments and improvements for training 2D object detection models.
 
-View Project
-📈 StockScope
+[View Repository](https://github.com/Revati-sp/2d-object-detection-training-improvment)
+
+---
+
+### ⚡ GEMM TensorCore Benchmark
+
+Benchmarking matrix multiplication performance using GPU TensorCore concepts.
+
+[View Repository](https://github.com/Revati-sp/gemm-tensorcore-benchmark)
+
+---
+
+### 💼 Jobly AI
+
+A React-based AI job portal frontend application.
+
+[View Repository](https://github.com/Revati-sp/Jobly-AI---react-job-portal-application-frontend)
+
+---
+
+### 💳 Real-Time Fraud Detection
+
+A fraud detection system using event streaming, Redis, Kafka, Docker,
+Kubernetes, and cloud deployment concepts.
+
+[View Repository](https://github.com/VritikaMalhotra/Fraud_Detection)
+
+---
+
+### 📈 StockScope
+
 An evidence-grounded portfolio analyzer and AI agent system.
 
-View Project
-📚 Currently Learning
-- Advanced data structures and algorithms
-- System design for large-scale applications
-- Distributed systems and microservices
-- Kubernetes and cloud-native architecture
-- Generative AI application development
-- RAG architecture and vector search
-- LangChain and LangGraph
-- AI agents and tool use
-- LLM evaluation and observability
-- Backend performance optimization
-- Production-grade software architecture
-✍️ Technical Writing
-I write about technology in a way that makes complex ideas easier to understand.
+[View Repository](https://github.com/yuktapramodpadgaonkar-lgtm/StockScope)
 
-My topics include:
+---
+
+## 📚 Currently Learning
+
+- Data structures and algorithms
+- System design and distributed systems
+- Microservices architecture
+- Kubernetes and cloud deployment
+- Machine learning and generative AI
+- Large language models and AI agents
+- Software testing architecture
+- Performance optimization
+- Reliable and scalable backend systems
+
+---
+
+## ✍️ My Writing
+
+I write about:
+
 - Artificial intelligence
-- Generative AI and LLMs
-- RAG and AI agents
 - Software engineering
 - Distributed systems
 - System design
-- Cloud computing
-- Career growth
 - Technology and society
-Read my articles on Medium.
-💡 My Engineering Philosophy
-Great software is not only code that works.
-It is code that can be understood, tested, maintained, scaled, and trusted.
+- Career growth
+- Personal development
+- Spirituality and timeless values
 
-I believe strong engineers combine technical depth with curiosity,
-clear communication, empathy for users, and a commitment to continuous learning.
-📊 GitHub Statistics
+Read my articles on [Medium](https://medium.com/@revati.272).
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revati-sp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revati-sp&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=revati-sp&theme=tokyonight&hide_border=true" />
-</p>🎯 What I Am Working Toward
-- Building intelligent applications that solve real-world problems
-- Becoming a stronger backend and distributed-systems engineer
-- Designing reliable, scalable, and maintainable software
-- Contributing to meaningful open-source projects
-- Sharing technical knowledge through writing
-- Growing into a thoughtful and technically excellent software engineer
-🤝 Let's Connect
-I enjoy connecting with software engineers, AI builders, SDETs,
-students, researchers, recruiters, and people building meaningful technology.
+</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/revatidharmadhikari/">LinkedIn</a> •
+  <img src="https://streak-stats.demolab.com?user=revati-sp&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 My Goals
+
+- Build production-quality AI applications
+- Become strong in system design and distributed systems
+- Contribute to meaningful open-source projects
+- Continue writing and sharing technical knowledge
+- Grow into a strong software engineering leader
+
+---
+
+## 🤝 Let's Connect
+
+I enjoy connecting with software engineers, AI enthusiasts, SDETs,
+researchers, students, recruiters, and people building meaningful technology.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">LinkedIn</a> •
   <a href="https://medium.com/@revati.272">Medium</a> •
-  <a href="mailto:revatidharmadhikari97@gmail.com">Email</a>
-</p><div align="center">Thanks for visiting my profile! 🚀
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+</p>
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
